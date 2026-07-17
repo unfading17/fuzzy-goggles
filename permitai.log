@@ -1,0 +1,72 @@
+2026-07-01 20:04:06,511 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:19:38,963 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:24:44,247 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:24:44,306 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:25:51,565 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:32:23,764 - config - INFO - Project created: Real Example Project
+2026-07-01 20:32:29,064 - config - INFO - Loaded 1 documents
+2026-07-01 20:32:34,728 - config - INFO - Loaded 2 documents
+2026-07-01 20:32:34,737 - config - INFO - Starting analysis for project: 
+2026-07-01 20:32:34,738 - config - INFO - Detected 2 issues
+2026-07-01 20:32:34,743 - config - INFO - Analysis complete: 4 findings, 95% risk
+2026-07-01 20:32:34,838 - config - INFO - Loaded 3 documents
+2026-07-01 20:34:35,376 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:34:35,457 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:34:35,852 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:34:35,916 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 20:34:35,988 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:08:44,248 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:10:55,794 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:13:08,684 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:14:26,319 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:15:52,599 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:17:40,859 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:35:12,910 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:35:27,380 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:37:47,805 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:40:10,578 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:41:49,376 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:43:14,360 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:44:05,130 - config - WARNING - Invalid project name: 
+2026-07-01 21:50:04,042 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-01 21:51:34,751 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-02 10:49:31,177 - config - WARNING - Invalid project name: andresfelipemendoza17@gmail.com
+2026-07-02 10:50:02,192 - config - INFO - Loaded 3 documents
+2026-07-02 10:50:04,728 - config - INFO - Loaded 4 documents
+2026-07-02 10:50:04,730 - config - INFO - Starting analysis for project: Ejemplo real - Adición residencial Miami-Dade
+2026-07-02 10:50:04,765 - config - INFO - Detected 3 issues
+2026-07-02 10:50:04,773 - config - INFO - Analysis complete: 8 findings, 95% risk
+2026-07-02 10:50:04,878 - config - INFO - Loaded 5 documents
+2026-07-02 10:50:06,830 - config - INFO - Loaded 6 documents
+2026-07-02 10:50:06,831 - config - INFO - Starting analysis for project: Ejemplo real - Adición residencial Miami-Dade
+2026-07-02 10:50:06,832 - config - INFO - Detected 3 issues
+2026-07-02 10:50:06,833 - config - INFO - Analysis complete: 8 findings, 95% risk
+2026-07-02 10:50:06,944 - config - INFO - Loaded 7 documents
+2026-07-02 10:50:09,480 - config - INFO - Loaded 8 documents
+2026-07-02 10:50:09,482 - config - INFO - Starting analysis for project: Ejemplo real - Adición residencial Miami-Dade
+2026-07-02 10:50:09,483 - config - INFO - Detected 3 issues
+2026-07-02 10:50:09,483 - config - INFO - Analysis complete: 8 findings, 95% risk
+2026-07-02 10:50:09,600 - config - INFO - Loaded 9 documents
+2026-07-02 10:50:10,429 - config - INFO - Loaded 10 documents
+2026-07-02 10:50:10,432 - config - INFO - Starting analysis for project: Ejemplo real - Adición residencial Miami-Dade
+2026-07-02 10:50:10,434 - config - INFO - Detected 3 issues
+2026-07-02 10:50:10,434 - config - INFO - Analysis complete: 8 findings, 95% risk
+2026-07-02 10:50:10,541 - config - INFO - Loaded 11 documents
+2026-07-02 10:51:24,177 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-02 10:51:24,265 - config - INFO - Loaded 12 documents
+2026-07-02 11:27:43,178 - config - INFO - PermitAI 1.0.0 - Configuration loaded
+2026-07-02 11:31:21,682 - config - INFO - Loaded 3 documents
+2026-07-02 11:31:23,142 - config - INFO - Loaded 4 documents
+2026-07-02 11:31:23,143 - config - INFO - Starting analysis for project: Real example - Miami-Dade residential addition
+2026-07-02 11:31:23,144 - config - INFO - Detected 2 issues
+2026-07-02 11:31:23,150 - config - INFO - Analysis complete: 10 findings, 95% risk
+2026-07-02 11:31:23,232 - config - INFO - Loaded 5 documents
+2026-07-17 16:13:48,571 - config - INFO - Loaded 3 documents
+2026-07-17 16:13:55,001 - config - INFO - Cleared project: Real example - Miami-Dade residential addition
+2026-07-17 16:14:11,031 - config - INFO - Loaded 2 documents
+2026-07-17 16:14:14,877 - config - INFO - Loaded 3 documents
+2026-07-17 16:14:16,203 - config - INFO - Loaded 4 documents
+2026-07-17 16:14:16,206 - config - INFO - Starting analysis for project: Real example - Miami-Dade residential addition
+2026-07-17 16:14:16,315 - config - INFO - Detected 1 issues
+2026-07-17 16:14:16,377 - config - INFO - Analysis complete: 2 findings, 46% risk
+2026-07-17 16:14:16,545 - config - INFO - Loaded 5 documents

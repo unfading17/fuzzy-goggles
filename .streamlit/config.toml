@@ -1,3 +1,4 @@
+# Streamlit Configuration for Permitai
 [theme]
 primaryColor = "#2563eb"
 backgroundColor = "#020617"
@@ -12,6 +13,7 @@ enableXsrfProtection = true
 enableCORS = false
 allowRunOnSave = true
 maxUploadSize = 200
+requireUserConfirmation = false
 
 [client]
 toolbarMode = "viewer"
@@ -20,3 +22,7 @@ showErrorDetails = false
 [logger]
 level = "info"
 messageFormat = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+[browser]
+GatherUsageStats = false
+ServerAddress = "localhost"
